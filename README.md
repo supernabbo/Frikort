@@ -19,4 +19,5 @@ Enhetstesting:
 	- Det viktigste er at enhetstestene er gode, og gir god testdekning
 - Bruk Mockito for mocking
 - Du skal isolere klassene du tester, dvs alle avhengigheter skal mockes.
+
 =======
